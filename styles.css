@@ -1,0 +1,11 @@
+
+.text {
+    font-family: 'Athiti', sans-serif;
+}
+.float-right{
+    float: right;
+    margin-right: 10px;
+}
+.float-center{
+    text-align: center;
+}
